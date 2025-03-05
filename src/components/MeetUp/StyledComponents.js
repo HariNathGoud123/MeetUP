@@ -58,7 +58,7 @@ height:62vh;
 background-color:#25262c;
 border:none;
 margin:auto;
-color:#fff;
+color:#fffddd;
 font-size:20px;
 font-weight:${props=>props.fontWeight};
 font-style:${props=>props.fontStyle};
